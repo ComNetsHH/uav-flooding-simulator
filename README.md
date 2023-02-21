@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/526239007.svg)](https://zenodo.org/badge/latestdoi/526239007)
+
 # uav-flooding-simulator
 
 This repository holds the simulation code for the evaluation of flooding protocols for urban UAV networks. It is intended for interested parties to reproduce research results, understand the inner workings of the protocols, or apply them to their own scenarios.
