@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "UAV Flooding Simulator"
+authors:
+  - family-names: Fuger
+    given-names: Konrad
+    orcid: https://orcid.org/0000-0002-8472-1483
+title: "UAV Flooding Simulator"
+version: 1.0.0
+doi: XXX
+date-released: 2023-02-21
